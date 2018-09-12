@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\direction2.xml",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\layout\\direction2.xml"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\direction4.xml",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\layout\\direction4.xml"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\direction1.xml",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\layout\\direction1.xml"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\direction3.xml",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\layout\\direction3.xml"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

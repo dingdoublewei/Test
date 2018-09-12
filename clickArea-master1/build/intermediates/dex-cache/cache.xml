@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\develop\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\MyProjects\clickArea-master1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_05a236cb85282f75e3851dba084a8309c53bc148.jar" />
+    </item>
+
+</items>

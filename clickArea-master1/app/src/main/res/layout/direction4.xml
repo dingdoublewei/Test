@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.vane.clickarea.widget.SolveClickTouchConflictLayout2
+        android:id="@+id/rl_root_item"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        app:carDirection="4"
+        app:itemCount="19" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="0001"
+        android:textSize="30sp" />
+</LinearLayout>
