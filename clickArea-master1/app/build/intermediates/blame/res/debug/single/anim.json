@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scale.xml",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\anim\\anim_scale.xml"
+    },
+    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scale.xml",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\anim\\anim_scale.xml"
     }

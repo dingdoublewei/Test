@@ -15,7 +15,7 @@
         android:largeHeap="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.vane.clickarea.MainActivity2"
+            android:name="com.vane.clickarea.MainActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

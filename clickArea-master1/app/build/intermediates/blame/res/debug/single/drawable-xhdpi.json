@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yinqing_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\yinqing_white.png"
+    },
+    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_4_n.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_4_n.png"
     },
@@ -8,12 +12,212 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_3_n.png"
     },
     {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_2_n.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_2_n.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zuohoubiandeng_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\zuohoubiandeng_red.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_1_n.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_1_n.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiangu_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiangu_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianlungu_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianlungu_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiandeng_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiandeng_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_3_s.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_3_s.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cartop_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\cartop_red.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houmen_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houmen_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_1_s.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_1_s.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli1_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli1_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_4_s.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_4_s.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_2_s.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_2_s.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianluntai_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianluntai_red.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouluntai_white.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhouluntai_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianluntai_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianluntai_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zuohoubiandeng_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\zuohoubiandeng_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouyiziban_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhouyiziban_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianluntai_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianluntai_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xiahuban_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xiahuban_red.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houboli_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houboli_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianlungu_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianlungu_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qunwei_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qunwei_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qianmen1_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qianmen1_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houbeixiang_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houbeixiang_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiangu_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiangu_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houbeixiang_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houbeixiang_red.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zuohoubiandeng_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\zuohoubiandeng_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli3_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli3_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli3_white.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli3_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiandeng_white.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiandeng_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qunwei_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qunwei_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianluntai_white.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianluntai_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xiahuban_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xiahuban_red.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\baoxiangang_white.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\baoxiangang_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli3_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli3_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xinglijia_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xinglijia_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qianyiziban_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qianyiziban_red.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qunwei_white.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qunwei_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli1_white.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli1_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_2_s.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_2_s.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouluntai_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhouluntai_white.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xinglijia_red.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xinglijia_red.png"
+    },
+    {
+        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zuohoubiandeng_white.png",
+        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\zuohoubiandeng_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli2_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli2_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qianyiziban_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qianyiziban_white.png"
+    },
+    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianlungu_red.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianlungu_red.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_2_n.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_2_n.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_3_n.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_3_n.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_2_n.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_2_n.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli2_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli2_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_1_n.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_1_n.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qianyiziban_red.png",
@@ -24,8 +228,8 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qianmen1_white.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_1_n.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_1_n.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiandeng_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiandeng_white.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouluntai_red.png",
@@ -36,10 +240,6 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\yinqing_white.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiandeng_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiandeng_red.png"
-    },
-    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houbeixiang_red.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houbeixiang_red.png"
     },
@@ -48,8 +248,8 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houbeixiang_white.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houmen_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houmen_red.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houmen_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houmen_red.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouyiziban_white.png",
@@ -58,6 +258,14 @@
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli1_red.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli1_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yinqing_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\yinqing_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\allcar.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\allcar.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cartop_white.png",
@@ -72,16 +280,24 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\allcar.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouluntai_white.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhouluntai_white.png"
-    },
-    {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianluntai_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianluntai_red.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tianchuang_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\tianchuang_white.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoushijing_red.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoushijing_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qianmen1_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qianmen1_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli3_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli3_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qunwei_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qunwei_white.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouyiziban_red.png",
@@ -92,12 +308,8 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoushijing_white.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xiahuban_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xiahuban_red.png"
-    },
-    {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houboli_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houboli_red.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiangu_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiangu_red.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cartop_red.png",
@@ -120,20 +332,32 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_1_s.png"
     },
     {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houmen_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houmen_white.png"
+    },
+    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houboli_white.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houboli_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_4_n.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_4_n.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiangu_white.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiangu_white.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiangu_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiangu_red.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouluntai_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhouluntai_red.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zuohoubiandeng_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\zuohoubiandeng_red.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xiahuban_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xiahuban_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiandeng_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiandeng_red.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianlungu_white.png",
@@ -144,40 +368,52 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli2_red.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli3_white.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli3_white.png"
-    },
-    {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoubiandeng_white.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoubiandeng_white.png"
-    },
-    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yinqing_red.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\yinqing_red.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qunwei_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qunwei_red.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\baoxiangang_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\baoxiangang_red.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youqianluntai_white.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youqianluntai_white.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xinlijia_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xinlijia_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoushijing_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoushijing_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cartop_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\cartop_white.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tianchuang_red.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\tianchuang_red.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\baoxiangang_white.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\baoxiangang_white.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\baoxiangang_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\baoxiangang_white.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli3_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli3_red.png"
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli1_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli1_red.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houboli_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houboli_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhoushijing_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhoushijing_white.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houmen_white.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houmen_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\houboli_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\houboli_red.png"
     },
     {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qianmen1_red.png",
@@ -188,14 +424,6 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xiahuban_white.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qunwei_white.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qunwei_white.png"
-    },
-    {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youboli1_white.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youboli1_white.png"
-    },
-    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_4_s.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_4_s.png"
     },
@@ -204,23 +432,19 @@
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\tianchuang_white.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chrome_2_s.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\chrome_2_s.png"
-    },
-    {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\xinglijia_red.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\xinglijia_red.png"
-    },
-    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zuohoubiandeng_white.png",
-        "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\zuohoubiandeng_white.png"
-    },
-    {
         "merged": "E:\\MyProjects\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qianyiziban_white.png",
         "source": "E:\\MyProjects\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\qianyiziban_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\youhouyiziban_white.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\youhouyiziban_white.png"
+    },
+    {
+        "merged": "E:\\github\\Test\\clickArea-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tianchuang_red.png",
+        "source": "E:\\github\\Test\\clickArea-master1\\app\\src\\main\\res\\drawable-xhdpi\\tianchuang_red.png"
     }
 ]

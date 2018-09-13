@@ -22,7 +22,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-public class MainActivity2 extends Activity implements MyViewPager.OnTouchEventListener, SolveClickTouchConflictLayout2.ItemClickListener {
+public class MainActivity extends Activity implements MyViewPager.OnTouchEventListener, SolveClickTouchConflictLayout2.ItemClickListener {
 
     private MyViewPager vp;
     private List<View> data = new ArrayList<View>();
@@ -184,7 +184,7 @@ public class MainActivity2 extends Activity implements MyViewPager.OnTouchEventL
 
             @Override
             public void onAnimationEnd(Animation animation) {
-                vp.setOnTouchEventListener(MainActivity2.this);//在动画结束后注册触摸事件
+                vp.setOnTouchEventListener(MainActivity.this);//在动画结束后注册触摸事件
             }
 
             @Override
